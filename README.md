@@ -42,7 +42,7 @@ software, infrastructure and open source with a more colorful side of
 technology — gaming, anime, furry culture and a bit of chaos. 🐾
 
 <p align="center">
-  <a href="https://github.com/Kissadevre/Kissadevre/raw/refs/heads/main/CV-Christopher.pdf">
+  <a href="https://zibuu.net/resume">
     <img src="https://img.shields.io/badge/Download%20my%20CV-PDF-6EA8FE?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download my CV">
   </a>
 </p>

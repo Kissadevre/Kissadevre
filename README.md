@@ -45,10 +45,6 @@ Sometimes everything works.
 
 Sometimes it's DNS.
 
-<p align="center">
-  <img src="./assets/zulu-coding.png" alt="Zulu coding" width="500">
-</p>
-
 ---
 
 ## My philosophy about software
@@ -133,10 +129,6 @@ Then build something slightly more complicated.
 ---
 
 ## Zibuu
-
-<p align="center">
-  <img src="./assets/zulu.png" alt="Zulu — Zibuu mascot" width="330">
-</p>
 
 <p align="center">
   <strong>Inclusive, creative, and secure technology.</strong>
@@ -382,7 +374,7 @@ And always have backups.
     <img src="https://img.shields.io/badge/Zibuu-zibuu.net-7DB5E8?style=for-the-badge" alt="Zibuu">
   </a>
 
-  <a href="https://github.com/Kissadere">
+  <a href="https://github.com/Kissadevre">
     <img src="https://img.shields.io/badge/GitHub-Kissadere-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
